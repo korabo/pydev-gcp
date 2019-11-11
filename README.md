@@ -1,2 +1,2 @@
-# pydev-gcp
-python develop env with gcp libs
+# pydev_ubnt17
+Python Develop env prepared for VSC on Ubuntu17
